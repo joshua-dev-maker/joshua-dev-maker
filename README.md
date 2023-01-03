@@ -2,6 +2,7 @@
 - 👀 I’m interested in software development 
 - 🌱 I’m currently learning cybersecurity 
 - 📫 How to reach me [LinkedIn](https://linkedin.com/in/joshua-ojo-oluwatobi) or [Twitter](twitter.com/misterOluwa)
+- <!---[Linkedin Badge](https://img.shields.io/badge/-Joshua Ojo-blue?style=flat&logo=Linkedin&logoColor=white)(https://linkedin.com/in/joshua-ojo-oluwatobi)--->
 - <img 
    src="https://github-readme-stats.vercel.app/api?username=joshua-dev-maker&show_icons=true&theme=tokyonight" 
 />
